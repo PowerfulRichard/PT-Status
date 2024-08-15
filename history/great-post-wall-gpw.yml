@@ -1,7 +1,7 @@
 url: $GPW
-status: degraded
+status: up
 code: 200
-responseTime: 2292
-lastUpdated: 2024-08-15T10:56:07.879Z
+responseTime: 245
+lastUpdated: 2024-08-15T11:08:35.149Z
 startTime: 2024-06-27T12:44:04.242Z
 generator: Upptime <https://github.com/upptime/upptime>
