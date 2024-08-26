@@ -1,7 +1,7 @@
 url: $GTRU
-status: degraded
+status: up
 code: 200
-responseTime: 4030
-lastUpdated: 2024-08-26T06:53:45.043Z
+responseTime: 711
+lastUpdated: 2024-08-26T07:00:36.049Z
 startTime: 2024-06-27T12:46:20.373Z
 generator: Upptime <https://github.com/upptime/upptime>
