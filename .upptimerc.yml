@@ -63,7 +63,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/powerfulrichard
-  css: "code {font-family: "Lucida Console", "Courier New", monospace;} "
+  css: "code {font-family: 'Lucida Console', 'Courier New', monospace;} "
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
