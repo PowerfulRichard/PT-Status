@@ -54,9 +54,9 @@ status-website:
     uptime: "*/5 * * * *"
   baseUrl: /PT-Status
   logoUrl: https://upptime.js.org/img/icon.svg
-  name: PT站状态监控 丨 Private Tracker Status Monitor
-  introTitle: PT站状态监控 丨 Private Tracker Status Monitor
-  introMessage: 基于Github Pages和Upptime的PT站监控 丨 Private Tracker Status Monitor based on Github Pages and Upptime
+  name: PT站状态监控丨Private Tracker Status Monitor
+  introTitle: PT站状态监控丨Private Tracker Status Monitor
+  introMessage: 基于`Github Pages`和`Upptime`的`PT`站监控丨Private Tracker Status Monitor based on Github Pages and Upptime
   theme: ocean
   navbar:
     - title: 状态监控
