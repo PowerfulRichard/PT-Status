@@ -60,7 +60,7 @@ status-website:
   theme: ocean
   navbar:
     - title: 状态监控
-      href: /
+      href: /PT-Status
     - title: GitHub
       href: https://github.com/powerfulrichard
   css: "code {font-family: 'Lucida Console', 'Courier New', monospace;} "
