@@ -69,9 +69,9 @@ status-website:
 i18n:
   activeIncidents: 当前离线网站
   allSystemsOperational: 所有网站正常运行
-  incidentReport: 事件 #$NUMBER 报告 →
-  activeIncidentSummary: 在 $DATE 出现 $POSTS 个事件
-  incidentTitle: 事件 $NUMBER 的详细信息
+  incidentReport: "事件 #$NUMBER 报告 →"
+  activeIncidentSummary: "在 $DATE 出现 $POSTS 个事件"
+  incidentTitle: "事件 $NUMBER 的详细信息"
   incidentDetails: 事件详细信息
   incidentFixed: 已恢复访问
   incidentOngoing: 网站停机中
@@ -79,17 +79,17 @@ i18n:
   incidentClosedAt: 结束于
   incidentSubscribe: 订阅更新
   incidentViewOnGitHub: 在 GitHub 上查看
-  incidentCommentSummary: 由 $AUTHOR 在 $DATE 发布
-  incidentBack: ← 返回所有事件
+  incidentCommentSummary: "由 $AUTHOR 在 $DATE 发布"
+  incidentBack: "← 返回所有事件"
   pastIncidents: 过去的事件
-  pastIncidentsResolved: $POSTS 个问题在 $MINUTES 分钟内得到解决
+  pastIncidentsResolved: "$POSTS 个问题在 $MINUTES 分钟内得到解决"
   liveStatus: 实时状态
-  overallUptime: 总体正常运行时间： $UPTIME
+  overallUptime: "总体正常运行时间：$UPTIME"
   overallUptimeTitle: 总体正常运行时间
-  averageResponseTime: 平均响应时间: $TIMEms
+  averageResponseTime: "平均响应时间: $TIME ms"
   averageResponseTimeTitle: 平均响应时间
   sevelDayResponseTime: 7 天响应时间
-  responseTimeMs: 响应时间（毫秒）
+  responseTimeMs: "响应时间（毫秒）"
   ms: 毫秒
   loading: 加载中
   navGitHub: GitHub
@@ -111,8 +111,8 @@ i18n:
   errorHome: 转到主页
   pastScheduledMaintenance: 历史定期维护
   scheduledMaintenance: 定期维护
-  scheduledMaintenanceSummaryStarted: 从 $DATE 开始，持续 $DURATION 分钟
-  scheduledMaintenanceSummaryStarts: 从 $DATE 开始，已经离线 $DURATION 分钟
+  scheduledMaintenanceSummaryStarted: "从 $DATE 开始，持续 $DURATION 分钟"
+  scheduledMaintenanceSummaryStarts: "从 $DATE 开始，已经离线 $DURATION 分钟"
   startedAt: 开始在
   startsAt: 开始于
   duration: 持续时间
