@@ -1,6 +1,7 @@
 # Change these first
-owner: PowerfulRichard # Your GitHub organization or username, where this repository lives
-repo: PT-Status # The name of this repository
+owner: PowerfulRichard
+repo: PT-Status
+user-agent: PowerfulRichard
  
 sites:
   - name: CHDBits
@@ -22,11 +23,6 @@ sites:
   - name: GTru
     url: $GTRU
     maxResponseTime: 1000
-#  - name: Haidan
-#    check: "tcp-ping"
-#    url: $HAIDAN
-#    port: 443
-#    maxResponseTime: 1000
   - name: HDArea
     url: $HDAREA
     maxResponseTime: 1000
@@ -58,15 +54,15 @@ status-website:
     uptime: "*/5 * * * *"
   baseUrl: /PT-Status
   logoUrl: https://upptime.js.org/img/icon.svg
-  name: PT站状态监控 | Private Tracker Status Monitor
-  introTitle: PT站状态监控 | Private Tracker Status Monitor
-  introMessage:  基于Github Pages和Upptime的PT站监控 | Private Tracker Status Monitor based on Github Pages and Upptime
+  name: "PT站状态监控 | Private Tracker Status Monitor"
+  introTitle: "PT站状态监控 | Private Tracker Status Monitor"
+  introMessage: "基于Github Pages和Upptime的PT站监控 | Private Tracker Status Monitor based on Github Pages and Upptime"
   theme: ocean
   navbar:
     - title: 状态监控
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/powerfulrichard
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
