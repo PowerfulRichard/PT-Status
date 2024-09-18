@@ -36,9 +36,6 @@ sites:
   - name: HDFans
     url: $HDF
     maxResponseTime: 1000
-  - name: HDZone
-    url: $HDZ
-    maxResponseTime: 1000
   - name: KamePT
     check: "tcp-ping"
     url: $KAME
