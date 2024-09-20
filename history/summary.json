@@ -4,11 +4,11 @@
     "url": "$CHD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chd-bits",
-    "status": "down",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.88%",
     "time": 158,
     "timeDay": 195,
@@ -16,7 +16,7 @@
     "timeMonth": 167,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2024-09-20": 0,
+      "2024-09-20": 6,
       "2024-08-07": 33,
       "2024-06-27": 113
     }
