@@ -1,7 +1,7 @@
 url: $TL
-status: down
-code: 403
-responseTime: 225
-lastUpdated: 2024-09-24T23:10:45.704Z
+status: up
+code: 200
+responseTime: 230
+lastUpdated: 2024-09-25T05:00:30.954Z
 startTime: 2024-06-27T12:44:16.689Z
 generator: Upptime <https://github.com/upptime/upptime>
