@@ -1,7 +1,7 @@
 url: $HDAREA
-status: degraded
+status: up
 code: 200
-responseTime: 3933
-lastUpdated: 2024-09-29T07:50:11.443Z
+responseTime: 449
+lastUpdated: 2024-09-29T07:56:55.002Z
 startTime: 2024-06-27T12:44:07.829Z
 generator: Upptime <https://github.com/upptime/upptime>
