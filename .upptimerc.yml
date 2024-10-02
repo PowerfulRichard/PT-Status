@@ -8,64 +8,72 @@ sites:
     check: "tcp-ping"
     url: $CHD
     port: 443
-    maxResponseTime: 1000
+
   - name: 馒头/M-Team
     url: $MT
-    maxResponseTime: 1000
+
   - name: TTG
     url: $TTG
-    maxResponseTime: 1000
+
   - name: 天空/HDSky
     url: $HDS
-    maxResponseTime: 1000
+    
   - name: 春天/CMCT/SSD
     url: $CMCT
-    maxResponseTime: 1000
+    
   - name: GreatPostWall(GPW)
     url: $GPW
-    maxResponseTime: 1000
+    
   - name: 朋友/FRDS
     url: $FRDS
-    maxResponseTime: 1000
+    
   - name: HDArea
     url: $HDAREA
-    maxResponseTime: 1000
+    
   - name: HDAtoms
     url: $HDATOMS
-    maxResponseTime: 1000
+    
   - name: HDFans
     url: $HDF
-    maxResponseTime: 1000
+    
   - name: HDHome
+    check: "tcp-ping"
     url: $HDH
-    maxResponseTime: 1000
+    port: 443
+    
   - name: KamePT
     check: "tcp-ping"
     url: $KAME
     port: 443
-    maxResponseTime: 1000
+
+  - name: 海胆/Haidan
+    check: "tcp-ping"
+    url: $HAIDAN
+    port: 443
+    
   - name: PT-Time
     check: "tcp-ping"
     url: $PTT
     port: 443
-    maxResponseTime: 1000
+    
   - name: 我堡/Ourbits
+    check: "tcp-ping"
     url: $Ourbits
-    maxResponseTime: 1000
+    port: 443
+    
   - name: Femdomcult
     check: "tcp-ping"
     url: $FDC
     port: 2710
-    maxResponseTime: 1000
+    
   - name: GT-Org
     url: $GTORG
-    maxResponseTime: 1000
+    
   - name: GTru
     url: $GTRU
-    maxResponseTime: 1000
+    
   - name: TorrentLeech
     url: $TL
-    maxResponseTime: 1000
     
 status-website:
   workflowSchedule:
