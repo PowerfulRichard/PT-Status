@@ -62,13 +62,14 @@ sites:
     url: $PTT
     port: 443
     
-  - name: 我堡/Ourbits
-    url: $Ourbits
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 302
+#  - name: 我堡/Ourbits
+#    url: $Ourbits
+#    expectedStatusCodes:
+#      - 200
+#      - 201
+#      - 301
+#      - 302
+#      - 403
     
   - name: Femdomcult
     check: "tcp-ping"
