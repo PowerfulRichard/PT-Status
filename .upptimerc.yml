@@ -37,9 +37,12 @@ sites:
     url: $HDF
     
   - name: HDHome
-    check: "tcp-ping"
     url: $HDH
-    port: 443
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 302
     
   - name: KamePT
     check: "tcp-ping"
@@ -47,9 +50,12 @@ sites:
     port: 443
 
   - name: 海胆/Haidan
-    check: "tcp-ping"
     url: $HAIDAN
-    port: 443
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 302
     
   - name: PT-Time
     check: "tcp-ping"
@@ -57,9 +63,12 @@ sites:
     port: 443
     
   - name: 我堡/Ourbits
-    check: "tcp-ping"
     url: $Ourbits
-    port: 443
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 302
     
   - name: Femdomcult
     check: "tcp-ping"
