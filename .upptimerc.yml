@@ -88,7 +88,8 @@ sites:
 status-website:
   workflowSchedule:
     uptime: "*/5 * * * *"
-  baseUrl: /PT-Status
+  # baseUrl: /PT-Status
+  cname: pt-status.hurl.live # Custom CNAME
   logoUrl: https://upptime.js.org/img/icon.svg
   name: PT站状态监控丨Private Tracker Status Monitor
   introTitle: PT站状态监控丨Private Tracker Status Monitor
