@@ -43,6 +43,7 @@ sites:
       - 201
       - 301
       - 302
+      - 403
     
   - name: KamePT
     check: "tcp-ping"
@@ -56,6 +57,7 @@ sites:
       - 201
       - 301
       - 302
+      - 403
     
   - name: PT-Time
     check: "tcp-ping"
