@@ -88,9 +88,9 @@ sites:
     url: $TL
     
 status-website:
-  workflowSchedule:
-    uptime: "*/5 * * * *"
   # baseUrl: /PT-Status
+  apiBaseUrl: https://pt-status.pages.dev
+  userContentBaseUrl: https://pt-status.pages.dev
   cname: pt-status.hurl.live # Custom CNAME
   logoUrl: https://upptime.js.org/img/icon.svg
   name: PT站状态监控丨Private Tracker Status Monitor
@@ -99,11 +99,20 @@ status-website:
   theme: ocean
   navbar:
     - title: 状态监控
-      href: /PT-Status
+      href: /
     - title: GitHub
       href: https://github.com/powerfulrichard
   css: "code {font-family: 'Lucida Console', 'Courier New', monospace;} "
 
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/10 * * * *"
+  
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 i18n:
