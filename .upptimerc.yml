@@ -89,8 +89,8 @@ sites:
     
 status-website:
   # baseUrl: /PT-Status
-  apiBaseUrl: https://pt-status.pages.dev
-  userContentBaseUrl: https://pt-status.pages.dev
+  # apiBaseUrl: https://pt-status.pages.dev # not working
+  # userContentBaseUrl: https://pt-status.pages.dev # not working
   cname: pt-status.hurl.live # Custom CNAME
   logoUrl: https://upptime.js.org/img/icon.svg
   name: PT站状态监控丨Private Tracker Status Monitor
