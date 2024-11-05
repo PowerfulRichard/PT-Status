@@ -1,7 +1,7 @@
 url: $HDATOMS
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-05T03:58:18.163Z
+status: up
+code: 200
+responseTime: 525
+lastUpdated: 2024-11-05T04:26:34.306Z
 startTime: 2024-06-27T12:44:08.971Z
 generator: Upptime <https://github.com/upptime/upptime>
