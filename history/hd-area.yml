@@ -1,7 +1,7 @@
 url: $HDAREA
-status: up
-code: 200
-responseTime: 715
-lastUpdated: 2024-11-07T23:12:27.239Z
+status: down
+code: 502
+responseTime: 353
+lastUpdated: 2024-11-08T17:49:43.562Z
 startTime: 2024-06-27T12:44:07.829Z
 generator: Upptime <https://github.com/upptime/upptime>
