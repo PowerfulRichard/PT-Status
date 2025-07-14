@@ -1,7 +1,7 @@
 url: $HDS
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-07-14T19:03:04.000Z
+status: up
+code: 200
+responseTime: 714
+lastUpdated: 2025-07-14T19:27:11.901Z
 startTime: 2024-10-02T02:05:50.453Z
 generator: Upptime <https://github.com/upptime/upptime>
