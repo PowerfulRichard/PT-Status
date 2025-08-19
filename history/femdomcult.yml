@@ -1,7 +1,7 @@
 url: $FDC
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-08-18T23:13:54.068Z
+status: up
+code: 200
+responseTime: 82
+lastUpdated: 2025-08-19T20:27:16.419Z
 startTime: 2024-06-27T12:44:03.097Z
 generator: Upptime <https://github.com/upptime/upptime>
