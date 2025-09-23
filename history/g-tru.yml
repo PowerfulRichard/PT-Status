@@ -1,7 +1,7 @@
 url: $GTRU
-status: down
-code: 522
-responseTime: 20016
-lastUpdated: 2025-09-23T22:01:40.898Z
+status: up
+code: 200
+responseTime: 485
+lastUpdated: 2025-09-23T22:26:22.656Z
 startTime: 2024-06-27T12:46:20.373Z
 generator: Upptime <https://github.com/upptime/upptime>
