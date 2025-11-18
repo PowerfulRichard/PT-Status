@@ -1,7 +1,7 @@
 url: $HDF
-status: down
-code: 500
-responseTime: 186
-lastUpdated: 2025-11-18T15:30:56.496Z
+status: up
+code: 200
+responseTime: 349
+lastUpdated: 2025-11-18T15:52:12.171Z
 startTime: 2024-06-27T12:44:09.909Z
 generator: Upptime <https://github.com/upptime/upptime>
