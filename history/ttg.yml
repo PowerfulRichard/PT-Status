@@ -1,7 +1,7 @@
 url: $TTG
-status: up
-code: 200
-responseTime: 502
-lastUpdated: 2026-01-19T17:57:21.531Z
+status: down
+code: 502
+responseTime: 464
+lastUpdated: 2026-01-19T19:02:02.411Z
 startTime: 2024-10-02T02:05:49.584Z
 generator: Upptime <https://github.com/upptime/upptime>
